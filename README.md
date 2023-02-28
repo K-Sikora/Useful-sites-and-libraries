@@ -18,7 +18,7 @@
 <br />
 <br />
 
-## **2. Other**
+## **3. Other**
 
 1. [API](#31-api)
 
@@ -62,7 +62,7 @@
 | imgboost         | Optimize images + convert to webp         | https://www.imgboost.com     |
 | handbrake        | Open source program for video compression | https://handbrake.fr         |
 
-#### 2.1 Visual
+### 2.1 Visual
 
 | Name                 | Description                                                                 | Docs link                                                | npm install                                       |
 | -------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
@@ -79,7 +79,7 @@
 | axios        | Promise based HTTP client library | https://axios-http.com/docs/intro            | npm install axios            |
 | react router | Client side routing               | https://reactrouter.com/en/main              | npm install react-router-dom |
 
-#### 3.1 APIs for projects
+### 3.1 APIs for projects
 
 | Name                | Description                                   | Docs link                                          |
 | ------------------- | --------------------------------------------- | -------------------------------------------------- |
