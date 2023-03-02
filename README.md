@@ -64,12 +64,13 @@
 
 ### 2.1 Visual
 
-| Name                 | Description                                                                 | Docs link                                                | npm install                                       |
-| -------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
-| framer motion        | Animation library, a lot of features                                        | https://www.framer.com/motion/                           | npm install framer-motion                         |
-| circular progressbar | Circular progressbar component, built with SVG and extensively customizable | https://www.npmjs.com/package/react-circular-progressbar | npm install --save react-circular-progressbar     |
-| swiper               | Slider library                                                              | https://swiperjs.com/react                               | npm install swiper                                |
-| fontawesome          | SVG icons for React projects                                                | https://fontawesome.com/v5/docs/web/use-with/react       | npm install --save @fortawesome/react-fontawesome |
+| Name                 | Description                                                                                                | Docs link                                                | npm install                                       |
+| -------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
+| framer motion        | Animation library, a lot of features                                                                       | https://www.framer.com/motion/                           | npm install framer-motion                         |
+| circular progressbar | Circular progressbar component, built with SVG and extensively customizable                                | https://www.npmjs.com/package/react-circular-progressbar | npm install --save react-circular-progressbar     |
+| swiper               | Slider library                                                                                             | https://swiperjs.com/react                               | npm install swiper                                |
+| fontawesome          | SVG icons for React projects                                                                               | https://fontawesome.com/v5/docs/web/use-with/react       | npm install --save @fortawesome/react-fontawesome |
+| react image          | allows images to be used as fallback images in the event that the browser couldn't load the previous image | https://www.npmjs.com/package/react-image                | npm install react-image --save                    |
 
 ### 2.2 Convenient
 
