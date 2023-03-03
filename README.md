@@ -71,14 +71,16 @@
 | swiper               | Slider library                                                                                             | https://swiperjs.com/react                               | npm install swiper                                |
 | fontawesome          | SVG icons for React projects                                                                               | https://fontawesome.com/v5/docs/web/use-with/react       | npm install --save @fortawesome/react-fontawesome |
 | react image          | allows images to be used as fallback images in the event that the browser couldn't load the previous image | https://www.npmjs.com/package/react-image                | npm install react-image --save                    |
+| react-spinners       | A collection of loading spinners with React.js                                                             | https://www.npmjs.com/package/react-spinners             | npm install --save react-spinners                 |
 
 ### 2.2 Convenient
 
-| Name         | Description                       | Docs link                                    | npm install                  |
-| ------------ | --------------------------------- | -------------------------------------------- | ---------------------------- |
-| react query  | Fetch, cache and update data      | https://react-query-v3.tanstack.com/overview | npm install react-query      |
-| axios        | Promise based HTTP client library | https://axios-http.com/docs/intro            | npm install axios            |
-| react router | Client side routing               | https://reactrouter.com/en/main              | npm install react-router-dom |
+| Name           | Description                                                      | Docs link                                    | npm install                       |
+| -------------- | ---------------------------------------------------------------- | -------------------------------------------- | --------------------------------- |
+| react query    | Fetch, cache and update data                                     | https://react-query-v3.tanstack.com/overview | npm install react-query           |
+| axios          | Promise based HTTP client library                                | https://axios-http.com/docs/intro            | npm install axios                 |
+| react router   | Client side routing                                              | https://reactrouter.com/en/main              | npm install react-router-dom      |
+| react-lazyload | Lazyload Components, Images or anything matters the performance. | https://www.npmjs.com/package/react-lazyload | npm install --save react-lazyload |
 
 ### 3.1 APIs for projects
 
