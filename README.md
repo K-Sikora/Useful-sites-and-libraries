@@ -46,13 +46,14 @@
 
 ### 1.4 Icons
 
-| Name         | Description                    | Link                      |
-| ------------ | ------------------------------ | ------------------------- |
-| fontawesome  | A lot of free icons            | https://fontawesome.com   |
-| flaticon     | High quality icons (PNG only)  | https://www.flaticon.com  |
-| uxwing       | Free basic and brand SVG icons | https://uxwing.com        |
-| seeklogo     | Brand icons                    | https://seeklogo.com      |
-| feathericons | Small library of simple icons  | https://feathericons.com/ |
+| Name         | Description                    | Link                                       |
+| ------------ | ------------------------------ | ------------------------------------------ |
+| fontawesome  | A lot of free icons            | https://fontawesome.com                    |
+| flaticon     | High quality icons (PNG only)  | https://www.flaticon.com                   |
+| uxwing       | Free basic and brand SVG icons | https://uxwing.com                         |
+| seeklogo     | Brand icons                    | https://seeklogo.com                       |
+| feathericons | Small library of simple icons  | https://feathericons.com/                  |
+| react-icons  | Big library for React          | https://react-icons.github.io/react-icons/ |
 
 ### 1.5 Optimization
 
@@ -64,15 +65,14 @@
 
 ### 2.1 Visual
 
-| Name                 | Description                                                                                                | Docs link                                                | npm install                                       |
-| -------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
-| framer motion        | Animation library, a lot of features                                                                       | https://www.framer.com/motion/                           | npm install framer-motion                         |
-| circular progressbar | Circular progressbar component, built with SVG and extensively customizable                                | https://www.npmjs.com/package/react-circular-progressbar | npm install --save react-circular-progressbar     |
-| react-icons          | Best icon library for React                                                                                | https://react-icons.github.io/react-icons/               | npm install react-icons --save                    |
-| swiper               | Slider library                                                                                             | https://swiperjs.com/react                               | npm install swiper                                |
-| fontawesome          | SVG icons for React projects                                                                               | https://fontawesome.com/v5/docs/web/use-with/react       | npm install --save @fortawesome/react-fontawesome |
-| react image          | allows images to be used as fallback images in the event that the browser couldn't load the previous image | https://www.npmjs.com/package/react-image                | npm install react-image --save                    |
-| react-spinners       | A collection of loading spinners with React.js                                                             | https://www.npmjs.com/package/react-spinners             | npm install --save react-spinners                 |
+| Name                 | Description                                                                                                | Docs link                                                | npm install                                   |
+| -------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------- |
+| framer motion        | Animation library, a lot of features                                                                       | https://www.framer.com/motion/                           | npm install framer-motion                     |
+| circular progressbar | Circular progressbar component, built with SVG and extensively customizable                                | https://www.npmjs.com/package/react-circular-progressbar | npm install --save react-circular-progressbar |
+| react-icons          | Best icon library for React                                                                                | https://react-icons.github.io/react-icons/               | npm install react-icons --save                |
+| swiper               | Slider library                                                                                             | https://swiperjs.com/react                               | npm install swiper                            |
+| react image          | allows images to be used as fallback images in the event that the browser couldn't load the previous image | https://www.npmjs.com/package/react-image                | npm install react-image --save                |
+| react-spinners       | A collection of loading spinners with React.js                                                             | https://www.npmjs.com/package/react-spinners             | npm install --save react-spinners             |
 
 ### 2.2 Convenient
 
@@ -85,8 +85,8 @@
 
 ### 3.1 APIs for projects
 
-| Name                | Description                                   | Docs link                                          |
-| ------------------- | --------------------------------------------- | -------------------------------------------------- |
-| themoviedatabase    | A large database of movies and tv shows       | https://developers.themoviedb.org/3                |
-| github readme stats | Dynamically generated GitHub stats on READMEs | https://github.com/anuraghazra/github-readme-stats |
-| openlibrary         | Database of books                             | https://openlibrary.org/developers/api             |
+| Name             | Description                             | Docs link                              |
+| ---------------- | --------------------------------------- | -------------------------------------- |
+| themoviedatabase | A large database of movies and tv shows | https://developers.themoviedb.org/3    |
+| Csgobackpack     | All CS:GO items on Steam                | https://csgobackpack.net/api/          |
+| openlibrary      | Database of books                       | https://openlibrary.org/developers/api |
